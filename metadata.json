@@ -1,0 +1,6 @@
+{
+  "name": "2K POWER APP",
+  "description": "An interactive dashboard for managing investments, premium investment plans, and automatic yields with mobile money transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
